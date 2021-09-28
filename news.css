@@ -1,0 +1,316 @@
+/*TOP*/
+
+.lg{
+	width: 100%;
+	height: 30px;
+	background-color: black;
+	top: 0;
+}
+
+.logo ul li{
+	width: 80px;
+	text-align: center;
+	float: right;
+	padding-top: 7px;
+}
+
+.logo ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+.trending{
+	width: 100%;
+	background-color: sandybrown;
+	color: black;
+}
+
+
+
+/*RED DIV*/
+.wholediv{
+	width: 100%;
+	height: 110px;
+	background-color: red;
+	display: flex;
+	position: relative;
+}
+
+.div1{
+	width: 400px;
+	color: white;
+	padding-left: 100px;
+}
+
+.wholediv .div1 h1{
+	font-family: Academy Engraved LET;
+}
+
+.div2{
+	padding-left: 300px;
+	padding-top: 40px;
+}
+
+.div2 a.b1{
+	color: white;
+	text-decoration: none;
+}
+
+.div3{
+	padding-left: 70px;
+	padding-top: 35px;
+
+}
+
+.search{
+	width: 250px;
+	height: 25px;
+}
+
+.weather{
+	width: 100px;
+	padding-top: 20px;
+	padding-left: 50px;
+	color: white;
+	font-size: 15px;
+	text-align: center;
+}
+
+
+
+/*MENU BAR*/
+.menubar{
+	width: 100%;
+	height: 30px;
+}
+
+.menubar ul{
+	list-style-type: none;
+}
+
+.menubar ul li{
+	width: 100px;
+	float: left;
+	text-align: center;
+}
+
+.menubar a.b2{
+	color: black;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.menubar a.b2:hover{
+	color: red;
+}
+
+
+/*CONTAINER*/
+.container{
+	display: flex;
+	justify-content: space-around;
+}
+
+.container .left a{
+	text-decoration: none;
+}
+
+.container .right a{ 
+	text-decoration: none;
+}
+
+
+
+
+
+/*picture and text LEFT*/
+.left{
+	width: 600px;
+	height: 530px;
+}
+
+.img1 img{
+	width: 600px;
+	height: 400px;
+}
+
+.left p{
+	text-align: justify;
+}
+
+
+
+/*picture and text RIGHT*/
+/*.right a{
+	text-decoration: none;
+}*/
+/*RIGHT1*/
+.right1{
+	width: 790px;
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.img2 img{
+	width: 280px;
+	height: 135px;
+}
+
+.right1 .righttext1{
+	width: 400px;
+}
+
+.right1 .righttext1 p{
+	text-align: justify;
+}
+
+/*RIGHT2*/
+.right2{
+	width: 790px;
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.img3 img{
+	width: 280px;
+	height: 135px;
+}
+
+.right2 .righttext2{
+	width: 400px;
+}
+
+.right2 .righttext2 p{
+	text-align: justify;
+}
+
+/*RIGHT 3*/
+.right3{
+	width: 790px;
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.img4 img{
+	width: 280px;
+	height: 145px;
+}
+
+.right3 .righttext3{
+	width: 400px;
+}
+
+.right3 .righttext3 p{
+	text-align: justify;
+}
+
+
+/*HEALTH*/
+.healthtitle{
+	width: 100%;
+	background-color: sandybrown;
+}
+
+.health{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.covid{
+	width: 100%;
+}
+
+
+/*INTERNATIONAL NEWS*/
+.internationalnews{
+	width: 100%;
+	background-color: sandybrown;
+}
+
+
+/*international1*/
+.international1{
+	width: 100%;
+	height: 350px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.international1 a{
+	text-decoration: none;
+} 
+
+.inter1{
+	width: 400px;
+	height: 400px;
+}
+
+.inter2{
+	width: 400px;
+	height: 400px;
+}
+
+.inter3{
+	width: 400px;
+	height: 400px;
+}
+
+/*international2*/
+.international2{
+	width: 100%;
+	height: 350px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.international2 a{
+	text-decoration: none;
+} 
+
+.inter4{
+	width: 400px;
+	height: 400px;
+}
+
+.inter5{
+	width: 400px;
+	height: 400px;
+}
+
+.inter6{
+	width: 400px;
+	height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
