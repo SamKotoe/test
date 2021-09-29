@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@500&display=swap');
+
+
+body{
+    background-color: aqua;
+    margin-top: 100px;
+    overflow: hidden;
+}
+
+.container .box h1{
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+
+.container{
+    margin-top: 50px; 
+    display: flex;
+    justify-content: center;
+    box-shadow: whitesmoke;
+}
+
+.container img{
+    width: 450px;
+    height: 550px;
+}
+
+.container .box{
+    width: 550px;
+    height: 550px;
+    background-color: bisque;
+    /* color:tomato; */
+
+    text-align: center;
+}
+
+.container .box form label{
+    margin: 0;
+}
+
+.form .form-group{
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.form-group label{
+	display: block;
+	margin-bottom: 8px;
+}
+
+.form-group .form-control:focus{
+	outline: 0;
+}
+
+
+.container .box .form input{
+    width: 300px;
+    height: 40px;
+    border-width: 0px;
+    border: none;
+    outline: none;
+    background-color: powderblue;
+    padding-left: 10px;
+}
+
+.container .box .btn{
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.container .box .continue{
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: cadetblue;
+}
+
+
+.form .btn:active{
+	transform: scale(0.98);
+}
+
+.container .box .form .form-control:hover{
+    font-size: 15px;
+}
+
+.container .box small{
+    letter-spacing: 2px;
+}
+
+.container .box .signf{
+    width: 400px;
+    height: 40px;
+    cursor: pointer;
+    background: linear-gradient(45deg,blue,white);
+    color: whitesmoke;
+}
+
+.container .box .signg{
+    width: 400px;
+    height: 40px;
+    cursor: pointer;
+    background:linear-gradient(45deg,brown,white);
+    color: whitesmoke;
+}
+
+.signf:hover{
+    font-size: 15px;
+}
+
+.signg:hover{
+    font-size: 15px;
+}
+
+.bottom{
+    margin-top: 120px;
+}
+
+.bottom a{
+    text-decoration: none;
+}
